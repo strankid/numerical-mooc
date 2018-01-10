@@ -1,16 +1,9 @@
 # Practical Numerical Methods with Python
 
-
-
-
 ## Getting Started
-Most of this material seem to be based on Jupyter notebook. The first task of students is to get Jupyter and git working on their machines. 
+Most of this material seem to be based on Jupyter notebook. The first task of students is to get [Jupyter Notebbok](http://jupyter.org/install.html) and [Git](https://git-scm.com/) working on their machines. It is also recommended to create a [Github](https://github.com/) account. 
 
 
-1. Introduction to the command line: [OS X version](https://github.com/numerical-mooc/numerical-mooc/blob/master/lessons/00_getting_started/00_01_Intro_to_the_command_line_osx.md); [RedHat version](https://github.com/numerical-mooc/numerical-mooc/blob/master/lessons/00_getting_started/00_01_Intro_to_the_command_line_redhat.md)
-2. [Installing Jupyter](https://github.com/numerical-mooc/numerical-mooc/blob/master/lessons/00_getting_started/00_02_Installing_Jupyter.md)
-3. [Introduction to Jupyter notebooks](https://github.com/numerical-mooc/numerical-mooc/blob/master/lessons/00_getting_started/00_03_Intro_to_Jupyter_notebook.md)
-4. [Introduction to git](https://github.com/numerical-mooc/numerical-mooc/blob/master/lessons/00_getting_started/00_04_Intro_to_git.md)
 
 ## Course Modules
 
