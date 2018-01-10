@@ -6,7 +6,7 @@ The phugoid model motivates the learning of numerical time integration methods. 
 
 * [Lesson 1](http://nbviewer.ipython.org/github/krajit/numerical-mooc/blob/master/lessons/01_phugoid/01_01_Phugoid_Theory.ipynb) presents the physics of phugoids in the assumption of zero drag (following Lanchester, 1909). Plotting the flight path gives fascinating curve shapes.
 
-  [Lesson 1 - learning objectives](http://nbviewer.ipython.org/github/krajit/numerical-mooc/blob/master/lessons/01_phugoid/01_01_Phugoid_Theory_learningObjectives.ipynb)
+  [Lesson 1 - learning objectives](https://github.com/krajit/numerical-mooc/blob/master/lessons/01_phugoid/01_01_Phugoid_Theory_learningObjectives.ipynb)
 
 
 * [Lesson 2](http://nbviewer.ipython.org/github/krajit/numerical-mooc/blob/master/lessons/01_phugoid/01_02_Phugoid_Oscillation.ipynb) develops a single-equation model for zero-drag oscillations, leading to simple harmonic motion. The lesson defines initial-value problems, demonstrates Euler's method, and uses the exact solution to study the numerical convergence. 
